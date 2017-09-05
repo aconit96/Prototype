@@ -237,7 +237,7 @@ Prototypeパターンは、以下のような場合に用いることが想定�
 
 # サンプルコード
 
-[https://github.com/aconit96/PrototypePattern](https://github.com/aconit96/PrototypePattern)
+[https://github.com/aconit96/Prototype](https://github.com/aconit96/Prototype)
 
 
 # 前回・次回リンク
